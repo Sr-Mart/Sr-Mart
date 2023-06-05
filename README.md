@@ -3,7 +3,7 @@
     <h1 align="center">Hola soy Mart</h1>
 </center>
 
-Hi :wave: I'm ender, a Colombian backend developer from Neiva who hates everything related to development. if you want to see some of the cool things I do keep reading :)))))
+Hi :wave: I'm Mart, a Colombian backend developer from Neiva who hates everything related to development. if you want to see some of the cool things I do keep reading :)))))
 
 ### languages i know, or at least i try to understand
 
